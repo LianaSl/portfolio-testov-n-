@@ -46,10 +46,16 @@ markdownCopy## Jazyky
 - Čeština: pokročilá
 - Ruština: rodilý mluvčí
 - Angličtina: středně pokročilá
+- ## GitHub Statistiky
+
+![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=VASE_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VASE_GITHUB_USERNAME&layout=compact&theme=radical)
 
 Přidejte sekci o současných cílech:
-markdownCopy## Současné cíle
-🌱 Momentálně se učím více o automatizovaném testování a AI v testování softwaru.
-👯 Hledám příležitosti pro spolupráci na open-source projektech v oblasti testování.
+4. "Zkušený odborník s různorodými zkušenostmi v oblasti beauty, managementu a nově v testování softwaru. Mám dovednosti v práci se zákazníky, řízení personálu a organizaci obchodních procesů. Nedávno jsem absolvovala školení v oblasti softwarového testování a nyní se aktivně rozvíjím v IT sféře.
+Mým cílem je dále prohlubovat své znalosti v 
+programování, zejména v oblasti vývoje softwaru a umělé inteligence. Fascinují mě možnosti, které nabízejí neuronové sítě, a usiluji o získání praktických zkušeností v tomto oboru. Hledám příležitosti, které mi umožní kombinovat mé dosavadní manažerské zkušenosti s novými technologickými dovednostmi.
+Jsem odhodlaná neustále se učit a přizpůsobovat se rychle se měnícímu technologickému prostředí. Věřím, že moje schopnost adaptace a touha po inovacích mi pomohou uspět v dynamickém světě IT a umělé inteligence."
 
 
