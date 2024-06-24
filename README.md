@@ -27,18 +27,18 @@ https://drive.google.com/file/d/1NJExqOlYhkqac1bUjtCPWtJtsA3Aje3H/view?usp=shari
 ## Vzdělání
 - Bc. v oboru psychologie a pedagogika, Baškirská Státní Univerzita
 - Kurz "Tester softwaru", SDA CZECH REPUBLIC s.r.o.
+[![Bakalář](https://img.shields.io/badge/Bakal%C3%A1%C5%99-Psychologie%20a%20Pedagogika-blue)](https://www.bashedu.ru/)
+[![Kurz](https://img.shields.io/badge/Kurz-Tester%20Softwaru-green)](https://www.sdacademy.cz/)
 
 ## Kontakt
 - LinkedIn: https://www.linkedin.com/in/bc-liana-%C5%A1ljonkina-302a21264/
 - Email: sljonkina@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liana%20%C5%A0ljonkina-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bc-liana-%C5%A1ljonkina-302a21264/)
+[![Email](https://img.shields.io/badge/Email-sljonkina%40gmail.com-red?style=flat&logo=gmail)](mailto:sljonkina@gmail.com)
 
 ## Zájmy
 Cestování, fotografie, četba knih, plavání, umělá inteligence, neuronové sítě
-Několik tipů pro vylepšení:
 
-Přidejte ikony: Můžete použít ikony pro vizuální zvýraznění sekcí. Například: 🛠️ pro Dovednosti, 📚 pro Vzdělání, 📫 pro Kontakt.
-Přidejte statistiky: Můžete přidat statistiky vašeho GitHub účtu pomocí nástrojů jako GitHub Readme Stats. Například:
-markdownCopy## GitHub Statistiky
 ![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaseuzivatelskeJmeno&show_icons=true&theme=radical)
 
 Přidejte jazykové dovednosti:
