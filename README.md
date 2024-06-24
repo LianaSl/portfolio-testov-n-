@@ -1,4 +1,4 @@
-# Ahoj, jsem Liana Šljonkina 👋# Ahoj, jsem Liana Šljonkina 👋
+ 👋# Ahoj, jsem Liana Šljonkina 👋
 
 ## O mně
 Jsem začínající softwarová testerka s zkušenostmi v managementu a zákaznickém servisu. Aktivně se rozvíjím v IT sféře, se zvláštním zájmem o testování softwaru a umělou inteligenci.
@@ -10,16 +10,13 @@ Jsem začínající softwarová testerka s zkušenostmi v managementu a zákazni
 - Jira, Trello, IntelliJ IDEA, Visual Studio Code
 
 ## Projekty
-- [Odkaz na váš testovací projekt]
-- [Odkaz na váš SQL projekt]
-- [Odkaz na váš projekt s automatizovaným testováním]
-
+https://drive.google.com/file/d/1NJExqOlYhkqac1bUjtCPWtJtsA3Aje3H/view?usp=sharing
 ## Vzdělání
 - Bc. v oboru psychologie a pedagogika, Baškirská Státní Univerzita
 - Kurz "Tester softwaru", SDA CZECH REPUBLIC s.r.o.
 
 ## Kontakt
-- LinkedIn: [Váš LinkedIn profil]
+- LinkedIn: https://www.linkedin.com/in/bc-liana-%C5%A1ljonkina-302a21264/
 - Email: sljonkina@gmail.com
 
 ## Zájmy
