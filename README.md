@@ -4,10 +4,23 @@
 Jsem začínající softwarová testerka s zkušenostmi v managementu a zákaznickém servisu. Aktivně se rozvíjím v IT sféře, se zvláštním zájmem o testování softwaru a umělou inteligenci.
 
 ## Dovednosti
-- Manuální a automatizované testování
-- Selenium IDE, Cucumber, TestRail, Postman
-- Základy Java, Python, SQL, HTML
-- Jira, Trello, IntelliJ IDEA, Visual Studio Code
+![Manuální testování](https://img.shields.io/badge/Testov%C3%A1n%C3%AD-Manu%C3%A1ln%C3%AD-blue)
+![Automatizované testování](https://img.shields.io/badge/Testov%C3%A1n%C3%AD-Automatizovan%C3%A9-blue)
+
+![Selenium IDE](https://img.shields.io/badge/Selenium-IDE-green)
+![Cucumber](https://img.shields.io/badge/Cucumber-green)
+![TestRail](https://img.shields.io/badge/TestRail-green)
+![Postman](https://img.shields.io/badge/Postman-green)
+
+![Java](https://img.shields.io/badge/Java-Z%C3%A1klady-orange)
+![Python](https://img.shields.io/badge/Python-Z%C3%A1klady-orange)
+![SQL](https://img.shields.io/badge/SQL-Z%C3%A1klady-orange)
+![HTML](https://img.shields.io/badge/HTML-Z%C3%A1klady-orange)
+
+![Jira](https://img.shields.io/badge/Jira-red)
+![Trello](https://img.shields.io/badge/Trello-red)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-red)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-red)
 
 ## Projekty
 https://drive.google.com/file/d/1NJExqOlYhkqac1bUjtCPWtJtsA3Aje3H/view?usp=sharing
