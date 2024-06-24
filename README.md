@@ -39,10 +39,9 @@ https://drive.google.com/file/d/1NJExqOlYhkqac1bUjtCPWtJtsA3Aje3H/view?usp=shari
 ## Zájmy
 Cestování, fotografie, četba knih, plavání, umělá inteligence, neuronové sítě
 
-![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaseuzivatelskeJmeno&show_icons=true&theme=radical)
 
-Přidejte jazykové dovednosti:
-markdownCopy## Jazyky
+ jazykové dovednosti:
+
 - Čeština: pokročilá
 - Ruština: rodilý mluvčí
 - Angličtina: středně pokročilá
