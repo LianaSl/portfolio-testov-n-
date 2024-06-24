@@ -45,11 +45,7 @@ Cestování, fotografie, četba knih, plavání, umělá inteligence, neuronové
 - Čeština: pokročilá
 - Ruština: rodilý mluvčí
 - Angličtina: středně pokročilá
-- ## GitHub Statistiky
 
-![Liana's GitHub stats](https://github-readme-stats.vercel.app/api?username=VASE_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VASE_GITHUB_USERNAME&layout=compact&theme=radical)
 
 Přidejte sekci o současných cílech:
 4. "Zkušený odborník s různorodými zkušenostmi v oblasti beauty, managementu a nově v testování softwaru. Mám dovednosti v práci se zákazníky, řízení personálu a organizaci obchodních procesů. Nedávno jsem absolvovala školení v oblasti softwarového testování a nyní se aktivně rozvíjím v IT sféře.
