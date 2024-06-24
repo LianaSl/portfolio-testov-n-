@@ -47,7 +47,7 @@ Cestování, fotografie, četba knih, plavání, umělá inteligence, neuronové
 - Angličtina: středně pokročilá
 
 
-Přidejte sekci o současných cílech:
+současné cíle:
 4. "Zkušený odborník s různorodými zkušenostmi v oblasti beauty, managementu a nově v testování softwaru. Mám dovednosti v práci se zákazníky, řízení personálu a organizaci obchodních procesů. Nedávno jsem absolvovala školení v oblasti softwarového testování a nyní se aktivně rozvíjím v IT sféře.
 Mým cílem je dále prohlubovat své znalosti v 
 programování, zejména v oblasti vývoje softwaru a umělé inteligence. Fascinují mě možnosti, které nabízejí neuronové sítě, a usiluji o získání praktických zkušeností v tomto oboru. Hledám příležitosti, které mi umožní kombinovat mé dosavadní manažerské zkušenosti s novými technologickými dovednostmi.
