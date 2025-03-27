@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1NJExqOlYhkqac1bUjtCPWtJtsA3Aje3H/view?usp=shari
 [![Kurz](https://img.shields.io/badge/Kurz-Tester%20Softwaru-green)](https://www.sdacademy.cz/)
 
 ## Kontakt
-- LinkedIn: https://www.linkedin.com/in/bc-liana-%C5%A1ljonkina-302a21264/
+- LinkedIn: linkedin.com/in/liana-šljonkina
 - Email: sljonkina@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liana%20%C5%A0ljonkina-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bc-liana-%C5%A1ljonkina-302a21264/)
 [![Email](https://img.shields.io/badge/Email-sljonkina%40gmail.com-red?style=flat&logo=gmail)](mailto:sljonkina@gmail.com)
