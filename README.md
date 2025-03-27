@@ -1,7 +1,7 @@
  👋# Ahoj, jsem Liana Šljonkina 👋
 
 ## O mně
-Jsem začínající softwarová testerka s zkušenostmi v managementu a zákaznickém servisu. Aktivně se rozvíjím v IT sféře, se zvláštním zájmem o testování softwaru a umělou inteligenci.
+Zkušený profesionál se zázemím v oblasti managementu a se zaměřením na testování softwaru. Spojuji silné dovednosti v řízení personálu a obchodních procesů s technickými znalostmi získanými prostřednictvím specializovaného kurzu testování softwaru. Aktivně rozvíjím své dovednosti nejen v oblasti testování, ale i v programování – věnuji se jazykům Java, Kotlin a Python a dále prohlubuji své znalosti SQL. Mým cílem je propojit manažerské zkušenosti s technickými kompetencemi v oblasti vývoje a testování softwaru. Hledám pozici, která mi umožní dále růst v technologicky orientovaném prostředí.
 
 ## Dovednosti
 ![Manuální testování](https://img.shields.io/badge/Testov%C3%A1n%C3%AD-Manu%C3%A1ln%C3%AD-blue)
